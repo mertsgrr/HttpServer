@@ -2,6 +2,8 @@
 Simple HTTP Web Server example<br>
 Sending parameters:<br>
 http://localhost/friends/<b>1</b><br>
+http://localhost/friends/<b>2</b><br>
+http://localhost/friends/<b>3</b><br>
 <br>
 Getting all results with JSON object type<br>
 http://localhost/friends<br>
